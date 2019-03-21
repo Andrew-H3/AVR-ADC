@@ -4,6 +4,8 @@
 
 To learn how to use the ADC on the ATmega328p
 
+Final demo
+
 ## Setup
 
 ### The Programmer
@@ -12,7 +14,7 @@ My programming setup consists of a Waveshare USB AVRISP XPII programmer conected
 
 The chip is powered via an arduino board, and has a pull up resistor connected to the reset pin.
 
-<img src="images/programmer.jpg" alt="drawing" width="500">
+<img src="images/programmer.jpg" alt="USB AVRISP XPII" width="50%">
 
 
 ### The Software
