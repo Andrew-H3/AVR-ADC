@@ -14,7 +14,7 @@ My programming setup consists of a Waveshare USB AVRISP XPII programmer conected
 
 The chip is powered via an arduino board, and has a pull up resistor connected to the reset pin.
 
-<img src="images/programmer.jpg" alt="USB AVRISP XPII" width="50%">
+<img src="images/programmer.jpg" alt="USB AVRISP XPII" width="70%">
 
 
 ### The Software
