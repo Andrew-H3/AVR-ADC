@@ -82,3 +82,5 @@ void main(void)
 ## Usefull Links
 
 [avr-libc library reference](https://www.nongnu.org/avr-libc/user-manual/modules.html)
+
+[AVRFREAKS: Bit manipulation](https://www.avrfreaks.net/forum/tut-c-bit-manipulation-aka-programming-101?page=all)
