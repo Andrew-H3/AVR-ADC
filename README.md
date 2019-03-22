@@ -74,3 +74,11 @@ void main(void)
 ## Diagram
 
 <img src="images/diagram.jpg" alt="Diagram Of Circuit (should be picture here)" width="70%">
+
+## Demo
+
+(video link here)
+
+## Usefull Links
+
+![avr-libc library reference](https://www.nongnu.org/avr-libc/user-manual/modules.html)
