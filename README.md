@@ -81,6 +81,8 @@ void main(void)
 
 ## Usefull Links
 
+[328p datasheet](https://cdn.sparkfun.com/assets/c/a/8/e/4/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
+
 [avr-libc library reference](https://www.nongnu.org/avr-libc/user-manual/modules.html)
 
 [AVRFREAKS: Bit manipulation](https://www.avrfreaks.net/forum/tut-c-bit-manipulation-aka-programming-101?page=all)
