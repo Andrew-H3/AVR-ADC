@@ -71,3 +71,6 @@ void main(void)
 
 ```
 
+## Diagram
+
+<img src="images/diagram.jpg" alt="Diagram Of Circuit (should be picture here)" width="70%">
