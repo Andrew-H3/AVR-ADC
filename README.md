@@ -81,4 +81,4 @@ void main(void)
 
 ## Usefull Links
 
-![avr-libc library reference](https://www.nongnu.org/avr-libc/user-manual/modules.html)
+[avr-libc library reference](https://www.nongnu.org/avr-libc/user-manual/modules.html)
