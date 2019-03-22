@@ -1,6 +1,6 @@
 # AVR-ADC (DRAFT ONLY!)
 
-## The Purpose
+## Purpose
 
 To learn how to use the ADC on the ATmega328p.
 
@@ -31,7 +31,7 @@ The makefile included is for general purpose avr programming. For this specific 
 
 `make file=adc; make upload file=adc`
 
-## The Code
+## Code
 
 ```c
 
