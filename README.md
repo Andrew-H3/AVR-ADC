@@ -79,7 +79,7 @@ void main(void)
 
 (video link here)
 
-## Usefull Links
+## Useful Links
 
 [328p datasheet](https://cdn.sparkfun.com/assets/c/a/8/e/4/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
 
