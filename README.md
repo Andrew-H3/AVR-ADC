@@ -1,3 +1,3 @@
 # AVR-ADC
 
-## Coming soon
+## Coming soon! Checkout dev branch to see draft!
