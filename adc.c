@@ -3,7 +3,6 @@ Andrew Huebner
 This program varies the frequency of a flashing led
 proportional to the voltage as read by the built in
 adc of the atmega 328p
-Frequency ranges from ~1 Hz to 0 Hz.
 */
 
 #define F_CPU 8000000UL
