@@ -1,4 +1,4 @@
-# AVR-ADC (DRAFT ONLY!)
+# AVR-ADC
 
 ## Purpose
 
