@@ -90,3 +90,5 @@ Video Link
 [avr-libc library reference](https://www.nongnu.org/avr-libc/user-manual/modules.html)
 
 [AVRFREAKS: Bit manipulation](https://www.avrfreaks.net/forum/tut-c-bit-manipulation-aka-programming-101?page=all)
+
+[oscilloscope](https://www.amazon.com/dp/B06XZ1VXRV/ref=cm_sw_em_r_mt_dp_U_UWLLCb05ZB9QG)
