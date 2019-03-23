@@ -75,6 +75,8 @@ void main(void)
 
 <img src="images/diagram.png" alt="Diagram Of Circuit (should be picture here)" width="70%">
 
+Made with [www.circuit-diagram.org](https://www.circuit-diagram.org)
+
 ## Demo
 
 Video Link
